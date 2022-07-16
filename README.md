@@ -1,2 +1,2 @@
 # Python-projects
-Some python projects 
+Light projects I started to learn the basic syntax of python
